@@ -1,1 +1,1 @@
-# vceia-syllabi-samplingmedia
+# vceia-syllabi
